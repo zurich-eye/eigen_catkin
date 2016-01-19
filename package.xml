@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<package>
+<package format="2">
   <name>eigen_catkin</name>
   <version>0.0.301</version> 
   <description>eigen_catkin</description>
@@ -9,4 +9,5 @@
 
   <buildtool_depend>catkin</buildtool_depend>
   <buildtool_depend>catkin_simple</buildtool_depend>
+  <depend>cmake_external_project_catkin</depend>
 </package>
